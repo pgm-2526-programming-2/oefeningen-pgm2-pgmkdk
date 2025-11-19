@@ -18,7 +18,7 @@ function checkAge(age) {
 }
 console.log(checkAge(20));
 
-function mainlogic(){
-    
-}
+
+
+
     
